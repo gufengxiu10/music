@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace app\api\music\facade;
+namespace Anng\Music\Facade;
 
-use app\api\music\Cache as MusicCache;
-use app\api\music\Facade;
+use Anng\Music\Cache as MusicCache;
+use Anng\Music\Facade;
 
 class Cache extends Facade
 {

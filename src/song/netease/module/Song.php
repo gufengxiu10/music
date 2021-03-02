@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace app\api\music\song\netease\module;
+namespace Anng\Music\Song\Netease\Module;
 
-use app\api\music\song\netease\Request;
+use Anng\Music\Song\Netease\Request;
 use Swlib\SaberGM;
 
 class Song

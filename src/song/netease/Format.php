@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace app\api\music\song\netease;
+namespace Anng\Music\Song\Netease;
 
 class Format
 {

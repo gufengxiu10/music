@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace app\api\music\song\netease\format;
+namespace Anng\Music\Song\Netease\Format;
 
 
 class Login

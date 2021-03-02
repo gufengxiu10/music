@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace app\api\music\song\netease;
+namespace Anng\Music\Song\Netease;
 
-use app\api\music\Music;
+use Anng\Music\Music;
 
 
 class Netease extends Music

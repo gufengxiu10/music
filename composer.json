@@ -1,0 +1,30 @@
+{
+    "name": "anng/music",
+    "description": "API",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "anng",
+            "email": "296718933@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "swlib/archer": "^1.1",
+        "swlib/saber": "^1.0",
+        "swoole/ide-helper": "^4.6",
+        "guzzlehttp/guzzle": "^7.0",
+        "symfony/cache": "^5.2",
+        "symfony/filesystem": "^5.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Anng\\Music": "src/"
+        }
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^5.2",
+        "phpunit/phpunit": "^9.5"
+    }
+}

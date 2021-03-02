@@ -2,13 +2,13 @@
 
 declare(strict_types=1);
 
-namespace app\api\music\song\netease\module;
+namespace Anng\Music\Song\Netease\Module;
 
-use app\api\music\Cache;
-use app\api\music\facade\Cache as FacadeCache;
-use app\api\music\song\netease\format\Login as FormatLogin;
-use app\api\music\song\netease\Excption;
-use app\api\music\song\netease\Request;
+use Anng\Music\Cache;
+use Anng\Music\Facade\Cache as FacadeCache;
+use Anng\Music\Song\Netease\Format\Login as FormatLogin;
+use Anng\Music\Song\Netease\Excption;
+use Anng\Music\Song\Netease\Request;
 
 class Login
 {

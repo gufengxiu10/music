@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace app\api\music;
+namespace Anng\Music;
 
 use Exception;
 use ReflectionClass;
